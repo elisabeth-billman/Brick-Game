@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "paddleGame"
+    ],
+    "java.project.outputPath": "bin"
+}
