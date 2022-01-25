@@ -80,7 +80,8 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
         this.play = play;
     }
 
-    public void paint(Graphics g) {
+    public void paintComponent(Graphics g) {
+        super.paintComponent(g);
         //background
         g.setColor(Color.gray);
         g.fillRect(1,1, 692, 592);
@@ -103,7 +104,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
         g.setColor(Color.green);
         g.fillOval(ballposX, ballposY, 20, 20);
 
-        g.dispose();
+        //g.dispose();
 
 
 
@@ -145,11 +146,13 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
 
                             break A;
 
+                    
+
 
                         }
 
                     }
-                }
+                } 
             }
 
 
