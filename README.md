@@ -6,7 +6,6 @@ This program helped teach me how to: work with Java classes, how to import a var
 
 The main purpose of why I chose this particular project is because I want to gain a deeper understanding of graphic design and colors in the Java language.  
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](https://youtu.be/nq7PWG5mcjk)
 
